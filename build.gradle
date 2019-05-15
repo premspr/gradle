@@ -20,5 +20,6 @@ cargo {
     port = 8080
 
     deployable {
-        context = '/some-path'
+        context = '/gradle'
     }
+}
